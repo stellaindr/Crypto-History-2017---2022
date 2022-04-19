@@ -1,4 +1,3 @@
-# Crypto Historical
-# 2017 - 2022
+# Crypto Historical 2017 - 2022
 
 
