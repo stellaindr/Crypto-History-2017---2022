@@ -1,4 +1,3 @@
 # Crypto Historical 2017 - 2022
 
-![](crypto_historical.gif)
-
+![](D:/Data Science/Project 03/crypto-historical.gif)
